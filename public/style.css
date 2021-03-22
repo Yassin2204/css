@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+h2 {
+    color:blue;
+}
+p {
+    font-size: 40px;
+    background-color: red;
+}
+
+li{
+    font-style: oblique;
+}
+.yo {
+    text-decoration: underline;
+    }
